@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.gruposcrum.grupo8.Grupo8ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 48.032 s - in com.gruposcrum.grupo8.Grupo8ApplicationTests
